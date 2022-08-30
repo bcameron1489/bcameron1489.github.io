@@ -1,0 +1,95 @@
+[
+    {
+    "id": "1",
+    "line_items": [
+    {
+    "item_name": "Classic Klaviyo T-Shirt 1",
+    "quantity": 1,
+    "product_url": "https://klaviyogear.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-1",
+    "image_url": "https://www.klaviyo.com/media/images/examples/products/klaviyo-tshirt-thumbnail.png",
+    "categories": [
+    "apparel",
+    "t-shirt",
+    "new-arrival",
+    "swag"
+    ],
+    "price": 10
+    }
+    ],
+    "customer": {
+    "first_name": "Brian",
+    "last_name": "Cameron",
+    "email": "bcapt1489@gmail.com",
+    "address_1": "125 Summer St",
+    "city": "Boston",
+    "state": "MA",
+    "zipcode": "02110",
+    "country": "US"
+    },
+    "tax": 1,
+    "shipping": 1,
+    "subtotal": 12
+    },
+    {
+    "id": "2",
+    "line_items": [
+    {
+    "item_name": "Classic Klaviyo T-Shirt 2",
+    "quantity": 1,
+    "product_url": "https://klaviyogear.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-2",
+    "image_url": "https://www.klaviyo.com/media/images/examples/products/klaviyo-tshirt-thumbnail.png",
+    "categories": [
+    "apparel",
+    "t-shirt",
+    "new-arrival",
+    "swag"
+    ],
+    "price": 20
+    }
+    ],
+    "customer": {
+    "first_name": "Brian",
+    "last_name": "Test",
+    "email": "brianscamapi@gmail.com",
+    "address_1": "49 Southwark Bridge Rd",
+    "city": "London",
+    "state": "",
+    "zipcode": "SE1 9HH",
+    "country": "UK"
+    },
+    "tax": 2,
+    "shipping": 1,
+    "subtotal": 22
+    },
+    {
+    "id": "3",
+    "line_items": [
+    {
+    "item_name": "Classic Klaviyo T-Shirt 3",
+    "quantity": 1,
+    "product_url": "https://klaviyogear.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-3",
+    "image_url": "https://www.klaviyo.com/media/images/examples/products/klaviyo-tshirt-thumbnail.png",
+    "categories": [
+    "apparel",
+    "t-shirt",
+    "new-arrival",
+    "swag"
+    ],
+    "price": 30
+    }
+    ],
+    "customer": {
+    "first_name": "Test",
+    "last_name": "API",
+    "email": "brian.cameron@klaviyo.com",
+    "address_1": "125 Summer St",
+    "city": "Boston",
+    "state": "MA",
+    "zipcode": "02110",
+    "country": "US"
+    },
+    "tax": 3,
+    "shipping": 1,
+    "subtotal": 33
+    }
+    ]
