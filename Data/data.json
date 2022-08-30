@@ -19,7 +19,7 @@
     "customer": {
     "first_name": "Brian",
     "last_name": "Cameron",
-    "email": "bcameron1489@gmail.com",
+    "email": "bcapt1489@gmail.com",
     "address_1": "125 Summer St",
     "city": "Boston",
     "state": "MA",
@@ -50,7 +50,7 @@
     "customer": {
     "first_name": "Brian",
     "last_name": "Test",
-    "email": "bctest1@gmail.com",
+    "email": "brianscamapi@gmail.com",
     "address_1": "49 Southwark Bridge Rd",
     "city": "London",
     "state": "",
