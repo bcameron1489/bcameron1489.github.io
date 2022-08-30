@@ -17,8 +17,8 @@
     }
     ],
     "customer": {
-    "first_name": "John",
-    "last_name": "Smith",
+    "first_name": "Brian",
+    "last_name": "Cameron",
     "email": "bcameron1489@gmail.com",
     "address_1": "125 Summer St",
     "city": "Boston",
@@ -48,9 +48,9 @@
     }
     ],
     "customer": {
-    "first_name": "Jane",
-    "last_name": "Doe",
-    "email": "bcameron1489+1@gmail.com",
+    "first_name": "Brian",
+    "last_name": "Test",
+    "email": "bctest1@gmail.com",
     "address_1": "49 Southwark Bridge Rd",
     "city": "London",
     "state": "",
@@ -79,9 +79,9 @@
     }
     ],
     "customer": {
-    "first_name": "John",
-    "last_name": "Smith",
-    "email": "bcameron1489+2@gmail.com",
+    "first_name": "Test",
+    "last_name": "API",
+    "email": "brian.cameron@klaviyo.com",
     "address_1": "125 Summer St",
     "city": "Boston",
     "state": "MA",
