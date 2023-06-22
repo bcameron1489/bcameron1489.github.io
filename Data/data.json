@@ -1,36 +1,14 @@
 [
   {
-    "id":"KLAVIYO-TSHIRT1",
-    "title":"Classic Klaviyo T-Shirt 1",
-    "link":"https://klaviyogear.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-1",
-    "description":"Standard issue for all Klaviyos. This t-shirt has the Klaviyo logo on the front and mark diagram on the back.",
-    "price":10,
-    "image_link":"https://www.klaviyo.com/media/images/examples/products/klaviyo-tshirt-thumbnail.png",
-    "categories":["apparel","t-shirt","new-arrival","swag"],
-    "inventory_quantity":25,
-    "inventory_policy":1,
-    "metadata":{"sku":"controller","price":"2.99","handle":"test-2","images":[{"id":31262564384934,"src":"https://cdn.shopify.com/s/files/1/0569/3423/6326/products/superpad.jpg?v=1635191996","variant_ids":[1234]}],"vendor":"bctest1414","options":[{"id":9190282363046,"name":"Title","values":["Default Title"],"position":1,"product_id":7128068161702}]},
-  },
-  {
-    "id":"KLAVIYO-TSHIRT2",
-    "title":"Classic Klaviyo T-Shirt 2",
-    "link":"https://klaviyogear.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-1",
-    "description":"Standard issue for all Klaviyos. This t-shirt has the Klaviyo logo on the front and mark diagram on the back.",
-    "price":10,
-    "image_link":"https://www.klaviyo.com/media/images/examples/products/klaviyo-tshirt-thumbnail.png",
-    "categories":["apparel","t-shirt","new-arrival","swag"],
-    "inventory_quantity":30,
-    "inventory_policy":1
-  },
-  {
-    "id":"KLAVIYO-TSHIRT3",
-    "title":"Classic Klaviyo T-Shirt 3",
-    "link":"https://klaviyogear.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-1",
-    "description":"Standard issue for all Klaviyos. This t-shirt has the Klaviyo logo on the front and mark diagram on the back.",
-    "price":10,
-    "image_link":"https://www.klaviyo.com/media/images/examples/products/klaviyo-tshirt-thumbnail.png",
-    "categories":["apparel","t-shirt","new-arrival","swag"],
-    "inventory_quantity":0,
-    "inventory_policy":1
+"id":“Complete interior detail - Coupes/Sedan Cars”,
+"categories”:[“complete interior detail”],
+"title":“Complete interior detail - Coupes/Sedan Cars”,
+“link”:”https://lionautodetail.com/interior-car-detail-mcallen-texas/“,
+"description":"Restores vehicle interior to a 'Like New' appearance. Includes steam cleaning & stain removal, and more. This is our specialty!",
+"price":150,
+“image_link”:”https://lionautodetail.com/wp-content/uploads/2023/05/BeforeAfterSeatsSmallSuvSmallest.jpeg”,
+"inventory_quantity":1,
+"inventory_policy":1
   }
 ]
+
