@@ -9,7 +9,7 @@
     "categories":["apparel","t-shirt","new-arrival","swag"],
     "inventory_quantity":25,
     "inventory_policy":1,
-    "variant_id":1489,
+    "variant_id":"1489",
     "variant_title":"klav test variant",
     "variant_image":"https://www.klaviyo.com/media/images/examples/products/klaviyo-tshirt-thumbnail.png",
     "variant_price":5
