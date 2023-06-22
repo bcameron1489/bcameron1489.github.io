@@ -9,7 +9,7 @@
     "categories":["apparel","t-shirt","new-arrival","swag"],
     "inventory_quantity":25,
     "inventory_policy":1,
-    "metadata":{"sku":"controller","price":"2.99","handle":"test-2","images":[{"id":31262564384934,"src":"https://cdn.shopify.com/s/files/1/0569/3423/6326/products/superpad.jpg?v=1635191996","variant_ids":[1234]}],"vendor":"bctest1414","options":[{"id":9190282363046,"name":"Title","values":["Default Title"],"position":1,"product_id":7128068161702}]}},
+    "metadata":{"sku":"controller","price":"2.99","handle":"test-2","images":[{"id":31262564384934,"src":"https://cdn.shopify.com/s/files/1/0569/3423/6326/products/superpad.jpg?v=1635191996","variant_ids":[1234]}],"vendor":"bctest1414","options":[{"id":9190282363046,"name":"Title","values":["Default Title"],"position":1,"product_id":7128068161702}]},
   },
   {
     "id":"KLAVIYO-TSHIRT2",
